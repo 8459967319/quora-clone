@@ -1,0 +1,7 @@
+.widgets {
+    flex: 0.2;
+    padding: 20px;
+    border-left: 1px solid lightgray;
+    height: 100vh;
+  }
+  
